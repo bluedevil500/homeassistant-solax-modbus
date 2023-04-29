@@ -1825,7 +1825,7 @@ SENSOR_TYPES_MAIN: list[SolaXModbusSensorEntityDescription] = [
         key = "language",
         register = 0xBB,
         scale = { 0: "English",
-                  1: "Deutsche",
+                  1: "Deutsch",
                   2: "Francais",
                   3: "Polskie",
                   4: "Espanol",
